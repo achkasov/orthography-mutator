@@ -1,6 +1,0 @@
-{
-  "FSharp.suggestGitignore": false,
-  "FSharp.inlayHints.enabled": false,
-  "FSharp.inlayHints.parameterNames": false,
-  "editor.inlayHints.enabled": "offUnlessPressed"
-}
