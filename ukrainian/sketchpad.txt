@@ -1,0 +1,14 @@
+Vowels
+i y u
+e   o
+  a
+
+Consonants
+
+  m     n     ň
+p b   t d   ť ď   č dž
+      c dz  ć dź
+f     s z   ś ź   š ž         x       h
+  w     l     ľ           j    
+        r     ř
+

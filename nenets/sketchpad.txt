@@ -1,0 +1,391 @@
+Orthography
+
+Alphabet: lat, cyr
+Syllable palatalization: punctuation, vowel diacritics, consonant diacritics, vowel digraph, consonant digraph, none, xother
+Initial nasalisation: indicated, none, xother
+Middle glottal consonants: phonetic, etymologic, none, xother
+Final glottal consonants: phonetic, etymologic, none, xother
+Reduced vowel: indicated, none, xother
+
+LatSPALpuncIMFiee
+
+
+
+Symmetrical I (ÿ-ë)
+
+Reduced Ultrashort  Short   Long
+y ÿ     y ÿ
+                    a ä     æ
+                    e ë
+                    i ï     ii ïï
+                    o ö
+                    u ü     uu üü
+
+
+
+Symmetrical IIa (ë-é)
+
+Reduced Ultrashort  Short   Long
+e ë     e ë
+                    a ä     æ
+                    è é
+                    i ï     ii ïï
+                    o ö
+                    u ü     uu üü
+
+
+
+Symmetrical IIb (ë-æ̈)
+
+Reduced Ultrashort  Short   Long
+e ë     e ë
+                    a ä     aa
+                    æ æ̈
+                    i ï     ii ïï
+                    o ö
+                    u ü     uu üü
+
+
+Assymetrical I
+
+Reduced Ultrashort  Short   Long
+- ï     õ ë
+                    a ä     aa
+                    æ e
+                    y i     yy ii
+                    o ö
+                    u ü     uu üü
+
+
+
+Assymetrical II
+
+Reduced Ultrashort  Short   Long
+e ë     e ë
+                    a ä     æ
+                    è é
+                    y i     yy ii
+                    o ö
+                    u ü     uu üü
+
+
+Palatal Assymetrical I (e)
+
+Reduced Ultrashort  Short   Long
+e       e
+                    a       ää
+                    ä 
+                    y i     yy ii
+                    o 
+                    u ÿ     uu üü
+
+
+
+Palatal Assymetrical I (ä)
+
+Reduced Ultrashort  Short   Long
+ä       ä
+                    a       aa
+                    e 
+                    y i     yy ii
+                    o 
+                    u ü     uu üü
+
+
+Palatal Assymetrical I (a)
+
+Reduced Ultrashort  Short   Long
+a       a
+                    ä       ää
+                    e 
+                    y i     yy ii
+                    o 
+                    u ü     uu üü
+
+
+
+Palatal Assymetrical I (e)
+
+Reduced Ultrashort  Short   Long
+e       ë
+                    a       aa
+                    ä 
+                    y i     yy ii
+                    o 
+                    u ü     uu üü
+
+
+
+Palatal Assymetrical II
+
+Reduced Ultrashort  Short   Long
+e       ä
+                    a       aa
+                    æ 
+                    y i     yy ii
+                    o 
+                    u ü     uu üü
+
+
+
+Palatal Assymetrical III
+
+Reduced Ultrashort  Short   Long
+e      y ÿ
+                    a ä     æ
+                    e ë
+                    i ï     ii ïï
+                    o ö
+                    u ü     uu üü
+
+
+
+
+Reduced Ultrashort  Short   Long
+° '     y ÿ
+                    a ä     æ
+                    e ë
+                    i ï     ii ïï
+                    o ö
+                    u ü     uu üü
+
+
+
+
+
+
+
+Phoneme Velar   Palatal
+/â/     y       ÿ
+/â̯/     y       j
+/a/     a       ä  
+/æ:/    æ
+/e/     e       ë
+/i/     i       ï
+/i:/    ii      ïï    
+/o/     o       ö
+/u/     u       ü
+/u:/    uu      üü
+
+
+Phoneme Velar   Palatal
+/â/     e       ë
+/â̯/     e       j
+/a/     a       ä  
+/æ:/    æ
+/e/     è       é
+/i/     i       ï
+/i:/    ii      ïï    
+/o/     o       ö
+/u/     u       ü
+/u:/    uu      üü
+
+Phoneme Velar   Palatal
+/â/     e       ë
+/â̯/     e       j
+/a/     a       ä  
+/æ:/    aa
+/e/     õ       ṏ
+/i/     i       ï
+/i:/    ii      ïï    
+/o/     o       ö
+/u/     u       ü
+/u:/    uu      üü
+
+Phoneme Velar   Palatal
+/â/     a       y 
+/â̯/     ă       j
+/a/     ä       ÿ  
+/æ:/    ää
+/e/     e       ë
+/i/     i       ï
+/i:/    ii      ïï    
+/o/     o       ö
+/u/     u       ü
+/u:/    uu      üü
+
+
+
+
+Phoneme Velar   Palatal
+/â/     a       ya
+/â̯/     à       y
+/a/     ä       yä  
+/æ:/    á
+/e/     e       ie
+/i/     i       ï
+/i:/    í       yí    
+/o/     o       yo
+/u/     u       yu
+/u:/    ú       yú
+
+
+
+
+Phoneme Velar   Palatal
+/â/     ë       ië
+/â̯/     e       j
+/a/     a       ia 
+/æ:/    aa
+/e/     ä       iä
+/i/     y       ÿ
+/i:/    yy      ÿÿ
+/o/     o       io
+/u/     u       ü
+/u:/    uu      üü
+
+
+Phoneme Velar   Palatal
+/â/     ë       ië
+/â̯/     e       j
+/a/     a       ia 
+/æ:/    aa
+/e/     ä       iä
+/i/     y       ÿ
+/i:/    yy      ÿÿ
+/o/     o       io
+/u/     u       ü
+/u:/    uu      üü
+
+Phoneme Velar   Palatal
+/â/     à       ia
+/â̯/     a       j
+/a/     ä       iä 
+/æ:/    aa
+/e/     e       ie
+/i/     y       ÿ
+/i:/    yy      ÿÿ
+/o/     o       io
+/u/     u       ü
+/u:/    uu      üü
+
+
+
+
+Phoneme Velar   Palatal
+/â/     ë       ï
+/â̯/     e       i
+/a/     a       ia 
+/æ:/    aa
+/e/     ä       iä
+/i/     y       ÿ
+/i:/    yy      ÿÿ
+/o/     o       io
+/u/     u       ü
+/u:/    uu      üü
+
+
+
+Phoneme Velar   Palatal
+/â/     o       ö
+/â̯/     ŏ       j
+/a/     a       ä  
+/æ:/    æ
+/e/     e       ë
+/i/     i       ï
+/i:/    ii      ïï    
+/o/     õ       ṏ
+/u/     u       ü
+/u:/    uu      üü
+
+
+Phoneme Velar   Palatal
+/â/     a       ä
+/â̯/     a       ä
+/a/     aa      ää
+/æ:/    æ        
+/e/     e       ë
+/i/     i       ï
+/i:/    ii      ïï    
+/o/     o       ö
+/u/     u       ü
+/u:/    uu      üü
+
+Personal pronouns
+1   SG          DU          PL
+NOM menë        menïn       menät
+ACC sïtme       sïdenïn     sïdenat
+GEN sïtne       sïdetnïn    sïdetnat
+
+2   SG          DU          PL
+NOM pidere      piderïn     piderat
+ACC sïte        sïdedïn     sïdedat
+GEN sïte        sïdetïn     sïdetat
+
+3   SG          DU          PL
+NOM pida        pidïn       pidon
+ACC sïta/sïtä   sïdedïn     sïdedon
+GEN sïta/sïtä   sïdetïn     sïdeton
+
+
+Personal pronouns
+1   SG          DU          PL
+NOM menë        menïq       menäq
+ACC sïqme       sïdenïq     sïdenaq
+GEN sïqne       sïdeqnïq    sïdeqnaq
+
+2   SG          DU          PL
+NOM pidere      piderïq     pideraq
+ACC sïte        sïdedïq     sïdedaq
+GEN sïte        sïdetïq     sïdetaq
+
+3   SG          DU          PL
+NOM pida        pidïq       pidoq
+ACC sïta/sïtä   sïdedïq     sïdedoq
+GEN sïta/sïtä   sïdetïq     sïdetoq
+
+
+н̆ т̆
+
+Personal pronouns
+1   SG          DU          PL
+NOM мънь        мънин̆       мънят̆
+ACC сит̆мъ       сидънин̆     сидънат̆
+GEN сит̆нъ       сидът̆нин̆    сидът̆нат̆
+
+2   SG          DU          PL
+NOM пыдъръ      пыдърин̆     пыдърат̆
+ACC ситъ        сидъдин̆     сидъдат̆
+GEN ситъ        сидътин̆     сидътат̆
+
+3   SG          DU          PL
+NOM пыда        пыдин̆       пыдон̆
+ACC сита/ситя   сидъдин̆     сидъдон̆
+GEN сита/ситя   сидътин̆     сидътон̆
+
+
+Ет            Jèten             Towards
+хибяри        hyybäri           whoever.ACC.PL
+ненэць        nénècën           person
+соямарианта   sojatmarihenta    born-PERF.AN-LIM-DAT.3SG
+хуркари       hurkari           any-kind
+правада       pravada           right-3SG
+тнява,        tenävat,          exist-1PL,
+
+ӈобой         opoje             one
+ненэця        nénècëen          person-GEN
+ниду          niidon            REC.ACC.3PL
+нись          niisë             NEG-MOD
+токалба,      totlehabae        similar-DUR-MOD,
+ӈыбтамба      obtempae          one-DAT-DUR-MOD
+илевату       jilévadon         live-IMPF.AN-3SG
+тара.         tarae             needed
+
+
+
+     ,    
+
+     , one person-GEN REC.ACC.3PL NEG-PAST
+
+
+
+
+ii, üü    ïï,  uu
+i,  ü     ï,   u
+é         õ    
+e,  ö     ë,   o
+
+aa  ä          a
+
+
+Jetə̆n̆ hïïb̦ar̦i n̦enec̦ə̆n̆ sojaqmarihənta hurkar̦i pravada tən̦avaq, ŋopojə̆ n̦enec̦ə̆ən̆ n̦iidon̆ n̦iișə̆ toqlə̆habaə̆ ŋobtə̆mpaə̆ jil̦evadon̆ taraə̆.
