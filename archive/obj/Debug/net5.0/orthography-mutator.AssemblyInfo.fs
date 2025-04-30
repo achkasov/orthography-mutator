@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("orthography-mutator")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a092f38252f5efec5bb18bd115ebb047e90d9175")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c58f1ca31ba19c38f5304ff53244ff20cf4141b")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("orthography-mutator")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("orthography-mutator")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
